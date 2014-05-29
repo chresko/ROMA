@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE520A64-9F51-49ED-964D-0574519CB895</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ARCarousel-Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</key>
+		<string>https://github.com/ares-huy-le/ARCarousel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ARCarousel-Demo/ARCarousel-Demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ares-huy-le/ARCarousel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ARCarousel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
