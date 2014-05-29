@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>CE520A64-9F51-49ED-964D-0574519CB895</string>
+	<string>B7D3748A-9CFA-4123-A349-79EA90E737A3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ARCarousel-Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</key>
-		<string>https://github.com/ares-huy-le/ARCarousel.git</string>
+		<key>76C6193E-CABA-4EA5-8F2D-0582CC4D3DF1</key>
+		<string>https://github.com/chresko/ROMA.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ARCarousel-Demo/ARCarousel-Demo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</key>
+		<key>76C6193E-CABA-4EA5-8F2D-0582CC4D3DF1</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ares-huy-le/ARCarousel.git</string>
+	<string>https://github.com/chresko/ROMA.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</string>
+	<string>76C6193E-CABA-4EA5-8F2D-0582CC4D3DF1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E44C1D36-382F-46DA-A3C6-5C8628FE9E87</string>
+			<string>76C6193E-CABA-4EA5-8F2D-0582CC4D3DF1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ARCarousel</string>
+			<string>ROMA</string>
 		</dict>
 	</array>
 </dict>
